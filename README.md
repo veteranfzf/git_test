@@ -1,2 +1,2 @@
 # git_test
-this
+this is a test of my git
